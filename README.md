@@ -36,15 +36,4 @@ This folder contains the datasets used in the experiments for both SmoothGrad an
 
 ---
 
-## Usage
-
-### Running the Code
-1. **SmoothGrad**:
-   - Open the `SmoothGrad.ipynb` notebook or run the `SmoothGrad.py` script.
-   - Follow the instructions in the notebook/script to load the dataset and generate visualizations.
-
-2. **SmoothGrad with Integrated Gradients**:
-   - Open the `SmoothGrad_IG.ipynb` notebook.
-   - Follow the instructions to combine SmoothGrad with Integrated Gradients and generate visualizations.
-
 
